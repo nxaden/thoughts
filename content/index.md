@@ -14,7 +14,9 @@ fun facts about me
 - some of the photos i have taken are part of a magazine 
 
 
+## recent ...
 
+- [[pytimeslice|I built an open source python library for creating 'timeslices']]
 
 
 
