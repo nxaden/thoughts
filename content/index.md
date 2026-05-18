@@ -11,7 +11,7 @@ fun facts about me
 - i have three cats: milo, miku and zakuta
 - i own way too many cameras (and lenses and tripods and lights and drones ... )
 - i bought a bitcoin (yes, one whole bitcoin) when it was super cheap, but I lost access to my wallet ...
-- some of the photos i have taken are part of a magazine 
+- [a few of my photos](https://nopsykhi.com/journey) are part of a local magazine and were exhibited earlier this year
 
 
 ## recent ...
