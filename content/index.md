@@ -18,5 +18,8 @@ fun facts about me
 
 - [[pytimeslice|I built an open source python library for creating 'timeslices']]
 
+## check out my portfolios 
 
+- [nopsykhi.com  -- art portfolio](https://nopsykhi.com/)
+- [nxabdullah.dev -- dev portfolio](https://www.nxabdullah.dev/)
 
