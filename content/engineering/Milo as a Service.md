@@ -1,5 +1,5 @@
 ---
-title: "Building in public: Milo as a Service"
+title: Milo as a Service
 aliases:
   - "Building in public: Milo as a Service"
 ---
