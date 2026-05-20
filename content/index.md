@@ -7,7 +7,7 @@ i am abdullah, an engineer based in toronto. i obsess over building niche applic
 
 fun facts about me 
 
-- i have three cats: milo, miku and zakuta
+- i have three cats: [[milo]], [[miku]] and [[zakuta]]
 - i own way too many cameras (and lenses and tripods and lights and drones ... )
 - i bought a bitcoin (yes, one whole bitcoin) when it was super cheap, but I lost access to my wallet ...
 - [a few of my photos](https://nopsykhi.com/journey) are part of a local magazine and were exhibited earlier this year  
@@ -15,8 +15,9 @@ fun facts about me
 
 ## recent ...
 
-- [[pytimeslice|I built an open source python library for creating 'timeslices']]
+- [[Observability is so key]]
 - [[Milo as a Service|Building in public: Milo as a Service]]
+- [[pytimeslice|I built an open source python library for creating 'timeslices']]
 
 ## check out my portfolios 
 
