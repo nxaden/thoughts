@@ -38,3 +38,12 @@ The primary goal of MiloAAS is to build a production style enterprise backend wi
 - cloud infrastructure (via AWS), and, 
 - an appropriate and scalable software architecture for the backend application itself. 
 
+## Emulating an Enterprise Architecture
+
+I want to double emphasize that this project is designed to emulate an enterprise architecture, both from a software architecture perspective and an infrastructure perspective, drawing on my engineering experience at the companies I have worked with.
+
+Some high level decisions 
+
+- a classic layered architecture will be used to structure the software design (`controller` -> `service` -> `domain` -> `repository` -> `infra`)
+- Reasonable abstractions will be created where appropriate. For example, we don't want to bind ourselves to a particular database technology, rather we should build an abstraction for the database in the repository layer. This allows the underlying database technology to change without affecting the rest of the application.
+- Java + Spring Boot will be used to build the Web API. Why? Spring Boot is a mature framework, has strong support for RESTful APIs, security (via Spring Security) and data access (via Spring Data JPA)... which lets me focus on domain logic + infra without worrying too much about the low level details. 
