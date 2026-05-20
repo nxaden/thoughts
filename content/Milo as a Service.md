@@ -47,3 +47,9 @@ Some high level decisions
 - a classic layered architecture will be used to structure the software design (`controller` -> `service` -> `domain` -> `repository` -> `infra`)
 - Reasonable abstractions will be created where appropriate. For example, we don't want to bind ourselves to a particular database technology, rather we should build an abstraction for the database in the repository layer. This allows the underlying database technology to change without affecting the rest of the application.
 - Java + Spring Boot will be used to build the Web API. Why? Spring Boot is a mature framework, has strong support for RESTful APIs, security (via Spring Security) and data access (via Spring Data JPA)... which lets me focus on domain logic + infra without worrying too much about the low level details. 
+- Observability is a big priority ... good logging strategy can REALLY save you from a lot of headache and debugging. I will write more on this in a separate post. 
+
+## What's next?
+
+I will conclude this introductory page here since we have enough context behind the project. Future decisions and progress will be shared in separate posts and will be linked below. 
+
