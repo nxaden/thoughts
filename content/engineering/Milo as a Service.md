@@ -1,9 +1,11 @@
 ---
-title: Milo as a Service
+title: "Building in public: MiloAAS"
 aliases:
   - "Building in public: Milo as a Service"
+  - MiloAAS
+date: 2026-05-01
 ---
-![This is a photo of my cat Milo](milo_caddy.webp)
+![This is a photo of my cat Milo|683](milo_caddy.webp)
 *tuff photo of my cat, milo*
 ## Context 
 
